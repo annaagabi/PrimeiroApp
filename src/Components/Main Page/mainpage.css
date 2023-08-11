@@ -1,0 +1,7 @@
+.main-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; /* quebra de linha */
+    margin: 0 auto;
+}
